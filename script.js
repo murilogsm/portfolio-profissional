@@ -1,9 +1,3 @@
-/* ===========================
-   Portfólio — Murilo Gabriel Santos Marcovicz
-   Script: integrações com a BrasilAPI (https://brasilapi.com.br)
-   3 funções: CEP, CNPJ e Banco
-=========================== */
-
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('cepInput').addEventListener('keyup', (e) => {
         if (e.key === 'Enter') buscarCEP();
@@ -16,7 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-/* 1. Buscar CEP */
 async function buscarCEP() {
     const input = document.getElementById('cepInput');
     const result = document.getElementById('cepResult');
@@ -49,7 +42,6 @@ async function buscarCEP() {
     }
 }
 
-/* 2. Buscar CNPJ */
 async function buscarCNPJ() {
     const input = document.getElementById('cnpjInput');
     const result = document.getElementById('cnpjResult');
@@ -82,7 +74,6 @@ async function buscarCNPJ() {
     }
 }
 
-/* 3. Buscar Banco por código */
 async function buscarBanco() {
     const input = document.getElementById('bancoInput');
     const result = document.getElementById('bancoResult');
