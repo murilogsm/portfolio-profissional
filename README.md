@@ -76,4 +76,4 @@ Em todos os casos:
 - Instagram: [@murilogsm](https://www.instagram.com/murilogsm)
 
 ---
-Atividade N3 · Frontend Design Engineering · UNIFASIPE
+Agradeço a visita, se precisar estarei à disposição. Abraço!
