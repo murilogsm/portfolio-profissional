@@ -1,6 +1,6 @@
-# Portfólio — Murilo Gabriel Santos Marcovicz
+# Portfólio Profissional
 
-Página de portfólio pessoal desenvolvida como atividade da disciplina de Frontend Design Engineering (UNIFASIPE), com integração à **BrasilAPI** para consulta de dados públicos brasileiros.
+Olá, eu sou Murilo Gabriel Santos Marcovicz, estou cusando o 1º semestre da faculdade Unifasipe no curso de Análise e desenvolvimento de Sistemas, e esta é uma página de portfólio pessoal desenvolvida como atividade da disciplina de Front End Design Engineering.
 
 ## 📁 Estrutura do projeto
 
